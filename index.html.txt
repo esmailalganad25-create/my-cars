@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>my first page</title>
+</head>
+<body>
+<h1>Welcome to my website</h1>
+<p>my name is esmail mohammad al ganad</p>
+<img src="swed.jpg" alt="my image">
+</body>
+</html>
